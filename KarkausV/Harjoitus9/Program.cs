@@ -21,7 +21,7 @@ namespace Harjoitus9
       
             } while (luku != 0);
 
-            
+            Console.Write("Syöttämiesi numeroiden summa on: ");
             Console.WriteLine(sum);
                 
             
