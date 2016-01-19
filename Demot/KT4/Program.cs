@@ -16,8 +16,6 @@ namespace KT4
             vehicle.Tyres = 5;
             vehicle.PrintData();
             Console.WriteLine(vehicle.ToString());
-            
-           
-        }
+         }
     }
 }
