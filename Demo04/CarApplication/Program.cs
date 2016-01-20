@@ -10,6 +10,11 @@ namespace CarApplication
     {
         static void Main(string[] args)
         {
+            Cars car = new Cars();
+            car.Speed = 300;
+            Console.WriteLine("Car speed is " + car.Speed);
+
+            Console.ReadLine(); 
         }
     }
 }
