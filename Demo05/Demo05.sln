@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo05", "Demo05\Demo05.csproj", "{09FF9B25-A1AF-4E02-AD53-EF8D24FBB7F3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawingApplication", "Demo05\DrawingApplication.csproj", "{09FF9B25-A1AF-4E02-AD53-EF8D24FBB7F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T1", "T1\T1.csproj", "{D714D855-88F4-475D-AC84-97F8ADB68411}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KT4", "KT4\KT4.csproj", "{1269AF4A-176C-4573-AD61-8BA469E7489C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{09FF9B25-A1AF-4E02-AD53-EF8D24FBB7F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09FF9B25-A1AF-4E02-AD53-EF8D24FBB7F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09FF9B25-A1AF-4E02-AD53-EF8D24FBB7F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D714D855-88F4-475D-AC84-97F8ADB68411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D714D855-88F4-475D-AC84-97F8ADB68411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D714D855-88F4-475D-AC84-97F8ADB68411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D714D855-88F4-475D-AC84-97F8ADB68411}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1269AF4A-176C-4573-AD61-8BA469E7489C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1269AF4A-176C-4573-AD61-8BA469E7489C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1269AF4A-176C-4573-AD61-8BA469E7489C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1269AF4A-176C-4573-AD61-8BA469E7489C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
