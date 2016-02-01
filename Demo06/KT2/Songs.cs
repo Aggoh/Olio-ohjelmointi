@@ -12,7 +12,7 @@ namespace KT2
         public string Lenght { get; set; }
         public override string ToString()
         {
-            return ("Name: " + SongName + " - " + Lenght);
+            return (SongName + " - " + Lenght);
         }
     }
 }
