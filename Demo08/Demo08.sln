@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorTests", "Calculat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KT1", "KT1\KT1.csproj", "{B5B9C133-B719-4F31-91B6-60F852EBAFBB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KT2", "KT2\KT2.csproj", "{13B3E1CC-37DF-4B7A-9CDC-F4B239BCE704}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B5B9C133-B719-4F31-91B6-60F852EBAFBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5B9C133-B719-4F31-91B6-60F852EBAFBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5B9C133-B719-4F31-91B6-60F852EBAFBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13B3E1CC-37DF-4B7A-9CDC-F4B239BCE704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13B3E1CC-37DF-4B7A-9CDC-F4B239BCE704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13B3E1CC-37DF-4B7A-9CDC-F4B239BCE704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13B3E1CC-37DF-4B7A-9CDC-F4B239BCE704}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
