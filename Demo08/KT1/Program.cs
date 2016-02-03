@@ -27,6 +27,7 @@ namespace KT1
             }
             // average calc
             avg = (k / x);
+
             Console.WriteLine("Average: " + avg);
             Console.WriteLine("\nNumber 1: " + nums[1] + "\nNumber 2: " + nums[2] +
                "\nNumber 3: " + nums[3] + "\nNumber 4: " + nums[4] + "\nNumber 5: " + nums[5] +
