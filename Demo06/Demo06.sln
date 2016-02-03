@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo06", "Demo06\Demo06.csproj", "{05310087-35BD-4635-8C05-FBF591E281CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KT2", "KT2\KT2.csproj", "{0ABC6FB0-D0AE-402F-B40B-1BF80B4A6C67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05310087-35BD-4635-8C05-FBF591E281CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05310087-35BD-4635-8C05-FBF591E281CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05310087-35BD-4635-8C05-FBF591E281CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05310087-35BD-4635-8C05-FBF591E281CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ABC6FB0-D0AE-402F-B40B-1BF80B4A6C67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ABC6FB0-D0AE-402F-B40B-1BF80B4A6C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ABC6FB0-D0AE-402F-B40B-1BF80B4A6C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ABC6FB0-D0AE-402F-B40B-1BF80B4A6C67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
