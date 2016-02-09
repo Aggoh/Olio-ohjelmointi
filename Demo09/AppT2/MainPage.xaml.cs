@@ -15,7 +15,7 @@ using Windows.UI.Xaml.Navigation;
 
 // The Blank Page item template is documented at http://go.microsoft.com/fwlink/?LinkId=402352&clcid=0x409
 
-namespace Firstapp
+namespace AppT2
 {
     /// <summary>
     /// An empty page that can be used on its own or navigated to within a Frame.
@@ -24,22 +24,24 @@ namespace Firstapp
     {
         public MainPage()
         {
+            
             this.InitializeComponent();
+         
         }
-
-        private void infoButton_Click(object sender, RoutedEventArgs e)
-        {
-           //Button painettu = (Button) sender;
-            infoTextBlock.Text = "Info: My First UWP app!";
-        }
-
-        private void infoButton_Click(object sender, HoldingRoutedEventArgs e)
-        {
-                    }
-
-        private void secondButton_Click(object sender, RoutedEventArgs e)
+        double a;
+        double b;
+     
+        private void markkaTextBox_TextChanged(object sender, TextChangedEventArgs e)
         {
            
+            markkaTextBox.Text = a.ToString();
+            
+        }
+
+        private void euroTextBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            
+            
         }
     }
 }

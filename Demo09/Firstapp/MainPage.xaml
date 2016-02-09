@@ -10,6 +10,6 @@
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" RenderTransformOrigin="0.487,0.125">
         <Button x:Name="infoButton" Content="Click Me!" HorizontalAlignment="Left" Margin="564,270,0,0" VerticalAlignment="Top" Background="#66111010" Click="infoButton_Click"/>
         <TextBlock x:Name="infoTextBlock" HorizontalAlignment="Left" Margin="564,326,0,0" TextWrapping="Wrap" Text="Info:" VerticalAlignment="Top"/>
-
+        <Button x:Name="secondButton" Click="secondButton_Click"/>
     </Grid>
 </Page>
